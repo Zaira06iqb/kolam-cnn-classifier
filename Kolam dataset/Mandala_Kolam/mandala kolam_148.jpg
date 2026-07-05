@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?><Error><Code>SignatureDoesNotMatch</Code><Message>Access denied.</Message><Details>The request signature we calculated does not match the signature you provided. Check your Google secret key and signing method.</Details><StringToSign>AWS4-HMAC-SHA256
+20250912T100554Z
+20250912/auto/storage/aws4_request
+6b0ced4c548a4286cc5d5506f279a75a47b58e51a4db5488e79db46dd04ce00b</StringToSign><CanonicalRequest>GET
+/2000/800847/4/3600.jpg
+h=5000&amp;q=85&amp;w=5000
+host:fc-europe-west1-fp.storage.googleapis.com
+x-amz-content-sha256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+x-amz-date:20250912T100554Z
+
+host;x-amz-content-sha256;x-amz-date
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</CanonicalRequest></Error>
