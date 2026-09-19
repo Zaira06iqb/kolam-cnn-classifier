@@ -11,4 +11,4 @@ My ML component from our Smart India Hackathon 2025 project (PS 25107 — identi
 
 Note: the team's Django analysis/recreation app lives in a teammate's repository; this classifier was my classification component of the proposed pipeline.
 
-**Author:** Pragun Aggarwal — B.Tech CSE, Thapar Institute
+
